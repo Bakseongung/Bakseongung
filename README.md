@@ -1,5 +1,5 @@
-## Hi there 👋
-
+지금 내가 하는 공부를 굳이 남에게 설명해야 한다면, <br>
+그건 꼭 나쁜 것 만은 아니지만 지금은 아니에요. <br>
 <!--
 **sungw00ng/sungw00ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
