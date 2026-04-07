@@ -1,4 +1,4 @@
-5월까지 서비스 출시 목표, 갈 길이 멀다.. <br>
+AI로 커피값을 벌 수 있을까..? 서비스 출시가 목표 <br>
 https://stockredo.duckdns.org <<- 훈수제보좀 ..(yeopoh@naver.com) <br>
 되돌리며 배우는 투자 시뮬레이터 <br>
 
