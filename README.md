@@ -1,6 +1,5 @@
 AI로 코딩하면 커피값을 벌 수 있을까..? <br>
 https://stockredo.duckdns.org <<- 피드백 제보는 yeopoh@naver.com <br>
-되돌리며 배우는 투자 시뮬레이터 <br>
 
 <!--
 **sungw00ng/sungw00ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
