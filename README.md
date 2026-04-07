@@ -1,5 +1,6 @@
-open = log-based <br>
-closed = logless <br>
+5월까지 서비스 출시 목표, 갈 길이 멀다.. <br>
+https://stockredo.duckdns.org <<- 훈수제보좀 ..(yeopoh@naver.com) <br>
+되돌리며 배우는 투자 시뮬레이터 <br>
 
 <!--
 **sungw00ng/sungw00ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
