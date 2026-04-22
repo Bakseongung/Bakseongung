@@ -1,6 +1,14 @@
 AI로 코딩하면 커피값을 벌 수 있을까..? <br>
 https://stockredo.duckdns.org <<- 피드백 제보는 '고객 지원' <br>
 
+<img width="700" height="300" alt="스크린샷 2026-04-22 오후 6 53 21" src="https://github.com/user-attachments/assets/8513ac41-d150-4cf2-bfc3-603ab2cb84e2" />
+
+<img width="700" height="300" alt="스크린샷 2026-04-22 오후 6 53 30" src="https://github.com/user-attachments/assets/a4904056-d648-4a62-a4aa-45b8cec3c73c" />
+<img width="700" height="300" alt="스크린샷 2026-04-22 오후 6 53 38" src="https://github.com/user-attachments/assets/e4364324-3cf7-4d03-95aa-9d2cc557d891" />
+<img width="700" height="300" alt="스크린샷 2026-04-22 오후 6 53 48" src="https://github.com/user-attachments/assets/2b078cb8-d3ad-4635-9a63-6ec81efc8218" />
+<img width="700" height="300" alt="스크린샷 2026-04-22 오후 6 53 59" src="https://github.com/user-attachments/assets/0ad04f3e-bbdc-4a0a-b18b-144beb49abf1" />
+
+
 <!--
 **sungw00ng/sungw00ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
