@@ -1,5 +1,6 @@
-AI로 코딩하면 커피값을 벌 수 있을까..? <br>
-www.stockredo.com <<- 피드백 제보는 '고객 문의',  5월 출시 목표 <br>
+## AI 주식 가상 거래 플랫폼
+www.stockredo.com <br>
+
 <img width="700" height="300" alt="스크린샷 2026-04-22 오후 6 53 21" src="https://github.com/user-attachments/assets/8513ac41-d150-4cf2-bfc3-603ab2cb84e2" />
 
 
