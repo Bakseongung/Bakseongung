@@ -1,7 +1,6 @@
 ## AI 주식 가상 거래 플랫폼
 www.stockredo.com <br>
-현재 캐시가 밀려서 ... 업데이트 느림.
-주말에 오류 수정 예정 (~5/16 예정)
+공부량 이슈 임시 폐쇄
 <img width="700" height="300" alt="스크린샷 2026-04-22 오후 6 53 21" src="https://github.com/user-attachments/assets/8513ac41-d150-4cf2-bfc3-603ab2cb84e2" />
 
 
