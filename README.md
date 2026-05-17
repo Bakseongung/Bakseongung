@@ -1,6 +1,7 @@
 ## AI 주식 가상 거래 플랫폼
 www.stockredo.com <br>
-공부량 이슈 임시 폐쇄
+자격증&부캠 건으로 임시 중단 & 가끔 조율함 <br>
+
 <img width="700" height="300" alt="스크린샷 2026-04-22 오후 6 53 21" src="https://github.com/user-attachments/assets/8513ac41-d150-4cf2-bfc3-603ab2cb84e2" />
 
 
